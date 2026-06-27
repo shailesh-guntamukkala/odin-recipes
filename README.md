@@ -1,1 +1,3 @@
-# odin-recipes
+This is a project called odin-recipes in which i create a page dedicated to food and series of food items we can observe on the main page.<br>
+The take aways fro this project is i know where i am going wrong while dealing with the projects. and i also practiced those html stuff which i have studied before.<br>
+i didnt commit continuously after meaning full modificaitions that is the wrong step i did during making of this project.
